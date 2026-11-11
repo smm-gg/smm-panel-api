@@ -6,7 +6,7 @@
 
 # SMM Panel API · PHP, Python & Node.js
 
-**The official [SMM.GG](https://smm.gg) SMM panel API client.** Resell 5,900+ social media services from your own website, bot, reseller panel or child panel.
+**The official [SMM.GG](https://smm.gg) SMM panel API client.** Resell 5,900+ social media services from your own website, bot, reseller panel or your own panel.
 
 <br>
 
@@ -45,7 +45,7 @@
 | ⚡ **Standard v2 API** | Works with most SMM panel scripts: paste the URL and your key |
 | 🔁 **Refills & cancels** | Supported per service, straight from the API |
 | 💳 **Card or crypto** | One USD balance for the panel and the API |
-| 🏷️ **Child panel** | Run your own branded SMM panel on your domain |
+| 🏷️ **Your own panel** | Run your own branded SMM panel on your domain |
 | 💬 **24/7 support** | Ticket support in 20 languages, around the clock |
 
 ## Getting started
@@ -92,7 +92,7 @@ An SMM panel API lets your own website, Telegram/Discord bot or reseller panel p
 ## Use cases
 
 - **SMM reseller panel:** list SMM.GG services on your own panel and resell them at your price.
-- **SMM child panel:** open your own branded panel from your SMM.GG account (*Your own panel* after sign-in), add your domain and point it as shown on that page.
+- **Your own panel:** open your own branded SMM panel from your SMM.GG account (*Your own panel* after sign-in), add your domain and point it as shown on that page.
 - **SMM panel script / custom site:** call the API from your own PHP, Python or Node.js code with the clients in this repo.
 - **Bots and automation:** auto-order views or likes for new posts, check balances, request refills.
 
@@ -116,6 +116,6 @@ Questions about the API or an order: open a ticket at [smm.gg/tickets](https://s
 
 **[Create a free account →](https://smm.gg/signup)**
 
-<sub>SMM panel API · cheap SMM panel · SMM reseller panel · SMM child panel · Instagram, TikTok, YouTube & Telegram services · MIT licensed</sub>
+<sub>SMM panel API · cheap SMM panel · SMM reseller panel · your own SMM panel · Instagram, TikTok, YouTube & Telegram services · MIT licensed</sub>
 
 </div>
