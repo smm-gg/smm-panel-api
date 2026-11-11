@@ -106,6 +106,10 @@ An SMM panel API lets your own website, Telegram/Discord bot or reseller panel p
 
 **Which currency is used?** Prices and balances are in USD.
 
+## Related
+
+- [SMM panel Telegram bot](https://github.com/smm-gg/smm-panel-telegram-bot): order and track services from Telegram with this API.
+
 ## Support
 
 Questions about the API or an order: open a ticket at [smm.gg/tickets](https://smm.gg/tickets) (24/7).
